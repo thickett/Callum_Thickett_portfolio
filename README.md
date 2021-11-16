@@ -8,3 +8,4 @@ A collection of my latest data analytics and data science projects.
  * Utilised R to manipulate and analyse the data.
  * Created compelling data visualizations with R to present findings.
  * Designed a mock report for my findings.
+ ![](https://github.com/thickett/Callum_Thickett_portfolio/blob/main/images/combined_viz.PNG)
