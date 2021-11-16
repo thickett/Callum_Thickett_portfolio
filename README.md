@@ -1,7 +1,7 @@
 # Callum Thickett Portfolio
 A collection of my latest data analytics and data science projects.
 
-## Project 1: Google Analytics Capstone Project: Improving The Subscriber Count Of A Bikeshare Company.
+## [Project 1: Google Analytics Capstone Project: Improving The Subscriber Count Of A Bikeshare Company.](https://github.com/thickett/Capstone-Project-improving-a-bikeshare-company)
 ### Project overview:
  * Compiled data from multiple sources using SQL. 
  * Cleaned millions of rows of Data using both SQL and R.
