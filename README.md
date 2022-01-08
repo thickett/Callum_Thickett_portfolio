@@ -1,17 +1,7 @@
 # Callum Thickett Portfolio
 A collection of my latest data analytics and data science projects.
 
-## [Project 1: Google Analytics Capstone Project: Improving The Subscriber Count Of A Bikeshare Company.](https://github.com/thickett/Capstone-Project-improving-a-bikeshare-company)
-### Project overview:
- * Compiled data from multiple sources using SQL. 
- * Cleaned millions of rows of Data using both SQL and R.
- * Utilised R to manipulate and analyse the data.
- * Created compelling data visualizations with R to present findings.
- * Designed a mock report for my findings.
- ![](images/combined_viz.PNG)
- 
- 
- ## [Project 2: IMDb_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
+ ## [IMDb_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
 
 ## Project overview
 An all encompassing project where I scrape, clean, manipulate and engineer data to create a predictive model that can successfully predict movie IMDB ratings based off of a number of predictor variables. 
@@ -51,4 +41,20 @@ The project was split into three main sections:
  * Took measures to ensure the predictive model worked well on un-seen data by:
  * Making use of holdout datasets.
  * K-fold cross validation.
+
+
+
+
+
+
+## [Google Analytics Capstone Project: Improving The Subscriber Count Of A Bikeshare Company.](https://github.com/thickett/Capstone-Project-improving-a-bikeshare-company)
+### Project overview:
+ * Compiled data from multiple sources using SQL. 
+ * Cleaned millions of rows of Data using both SQL and R.
+ * Utilised R to manipulate and analyse the data.
+ * Created compelling data visualizations with R to present findings.
+ * Designed a mock report for my findings.
+ ![](images/combined_viz.PNG)
+ 
+ 
 
