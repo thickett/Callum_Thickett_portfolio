@@ -45,9 +45,9 @@ The project was split into three main sections:
  
  ### 4) Model building and predictions.
  * Produced a predictive model that made use of mutliple confounding regression algorithims such as:
-  * Elastic net regression.
-  * Random forests.
-  * XGboost regression trees.
+   * Elastic net regression.
+   * Random forests.
+   * XGboost regression trees.
  * Took measures to ensure the predictive model worked well on un-seen data by:
  * Making use of holdout datasets.
  * K-fold cross validation.
