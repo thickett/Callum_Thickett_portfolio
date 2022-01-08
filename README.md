@@ -11,7 +11,7 @@ A collection of my latest data analytics and data science projects.
  ![](images/combined_viz.PNG)
  
  
- ## [Project 2: IMDB_Movie_ratings_predictions using elastic net regression, XGboost regression trees KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
+ ## [Project 2: IMDB_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
 
 ## Project overview
 An all encompassing project where I scrape, clean, manipulate and engineer data to create a predictive model that can successfully predict movie IMDB ratings based off of a number of predictor variables. 
