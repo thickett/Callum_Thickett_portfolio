@@ -46,7 +46,6 @@ The project was split into three main sections:
 
 
 
-
 ## [Google Analytics Capstone Project: Improving The Subscriber Count Of A Bikeshare Company.](https://github.com/thickett/Capstone-Project-improving-a-bikeshare-company)
 ### Project overview:
  * Compiled data from multiple sources using SQL. 
