@@ -1,7 +1,7 @@
 # Callum Thickett Portfolio
 A collection of my latest data analytics and data science projects.
 
- ## [IMDb_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
+## [IMDb_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
 
 ## Project overview
 An all encompassing project where I scrape, clean, manipulate and engineer data to create a predictive model that can successfully predict movie IMDB ratings based off of a number of predictor variables. 
@@ -22,10 +22,10 @@ The project was split into three main sections:
 * Feature engineered new variables to present the data in a more meaningful way.
 * Made decisions on how to correctly navigate missing and incorrect data.
 * Ensured data integrity was maintained throughout. 
- ![](https://github.com/thickett/IMDB_webscraping_analysis/blob/main/images/cleaning_example_r.PNG)
+![](https://github.com/thickett/IMDB_webscraping_analysis/blob/main/images/cleaning_example_r.PNG)
  
  
- ### 3) Exploratory analysis and feature engineering 
+### 3) Exploratory analysis and feature engineering 
  * Created compelling data vizulizations to outline the scope of the data.
  * Identified key trends and relationships.
  * Feature engineered several new variables  all of which played a pivital role in the success of the predictive model.
@@ -33,7 +33,7 @@ The project was split into three main sections:
  * Utalised KNN regression to add localised structural information of the data, and to create a new predictor variable.
  
  
- ### 4) Model building and predictions.
+### 4) Model building and predictions.
  * Produced a predictive model that made use of mutliple confounding regression algorithims such as:
    * Elastic net regression.
    * Random forests.
