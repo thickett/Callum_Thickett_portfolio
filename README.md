@@ -7,7 +7,7 @@ A collection of my latest data analytics and data science projects.
 An all encompassing project where I scrape, clean, manipulate and engineer data to create a predictive model that can successfully predict movie IMDB ratings based off of a number of predictor variables. 
 
 
-The project was split into three main sections:
+The project was split into four main sections:
 
 
 ### 1) Web Scraping 
