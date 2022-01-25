@@ -41,7 +41,7 @@ The project was split into three main sections:
  * Took measures to ensure the predictive model worked well on un-seen data by:
  * Making use of holdout datasets.
  * K-fold cross validation.
-
+![](https://github.com/thickett/Callum_Thickett_portfolio/blob/main/images/viz_combined_imdb.JPG)
 
 
 
