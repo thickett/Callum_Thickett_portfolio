@@ -16,7 +16,7 @@ A collection of my latest data analytics and data science projects.
 ![image](https://user-images.githubusercontent.com/82325813/204160693-29a72f98-c62e-445f-be18-53d1d1008a92.png)
 
 
-# [Creating an efficient, scalable and generalizable machine learning pipeline for the prediction of molecular energies using simple atomic, and structural features.](https://github.com/thickett/data-science-projects/blob/main/Molecular%20Energy%20predictions/README.MD)
+# [Creating an efficient, scalable and generalizable machine learning pipeline for the prediction of molecular energies using simple atomic, and structural features.](https://github.com/thickett/data-science-projects/blob/main/Molecular%20Energy%20predictions)
 
 * Utalised Hadoop's HDFS for the effective distributed storage of large amounts of chemical data, and to ensure scaling of the process is possible from a storage persepective.
 * Used pyspark to clean and feature engineer complex chemical data
