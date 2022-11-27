@@ -1,4 +1,4 @@
-# Callum Thickett Portfolio
+# Callum Thickett - Projects
 A collection of my latest data analytics and data science projects.
 
 
