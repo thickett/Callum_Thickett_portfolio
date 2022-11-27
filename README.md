@@ -1,9 +1,34 @@
 # Callum Thickett Portfolio
 A collection of my latest data analytics and data science projects.
 
+
+
+# [Multiclass Classification of Authors using written text to understand how personality is captured in the written medium](https://github.com/thickett/data-science-projects/tree/main/Author_identity_prediction)
+
+## Project Overview
+
+* **Selenium** and **Scrapy** python packages used to asynchronously scrape dynamic web pages.
+* Dozens of Custom functions for data cleaning and feature engineering
+* NLP techniques such as **TF-IDF**, **LDA** were used for the purpose of feature engineering
+* A veriety of models compared using several performance metrics such as epoch-performance curves time-to-fit curves, f1-scores
+* **Hyper-opt** used for hyper-parameter optimisation.
+![image](https://user-images.githubusercontent.com/82325813/204160659-654e517c-0274-4c6f-92a5-a06890f4233f.png)
+![image](https://user-images.githubusercontent.com/82325813/204160693-29a72f98-c62e-445f-be18-53d1d1008a92.png)
+
+
+# [Creating an efficient, scalable and generalizable machine learning pipeline for the prediction of molecular energies using simple atomic, and structural features.]
+
+* Utalised Hadoop's HDFS for the effective distributed storage of large amounts of chemical data, and to ensure scaling of the process is possible from a storage persepective.
+* Used pyspark to clean and feature engineer complex chemical data
+* Utalised cacheing to maximise the effective use of in-memory storage.
+* Used the MLlib Library to build efficent, generalizble ML workflows.
+* Made use of Hyper-opt's asynchronous capabilities to efficently optimise hyper-parameters.
+
+
+
 ## [IMDb_Movie ratings predictions using elastic net regression, XGboost, KNN and more ](https://github.com/thickett/IMDB_webscraping_analysis)
 
-## Project overview
+## Project Overview
 An all encompassing project where I scrape, clean, manipulate and engineer data to create a predictive model that can successfully predict movie IMDB ratings based off of a number of predictor variables. 
 
 
