@@ -15,7 +15,7 @@ A collection of my latest data analytics and data science projects.
 * used **TensorBoards** to better understand experiment results and identify key hyperparameters.
 * optimised **In-memory storage** usage to maximise performance
 
-![](https://github.com/thickett/data-science-projects/tree/main/Colon%20Disease%20deep%20learning)
+![image](https://github.com/thickett/data-science-projects/blob/main/Colon%20Disease%20deep%20learning/final_image_small.PNG)
 
 
 
