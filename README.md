@@ -8,9 +8,9 @@ A collection of my latest data analytics and data science projects.
 ## Project Overview
 
 * 
-* Created several CNNs ranging from simple, sequential to fully optimized , multi-branch inception models using **TensorFlow**
-* Developed **Keras Tuner** genetic algorithms for tuning, and in some cases automated building of CNNs.
-* **Fine tuned** and **optimized** Tranfered learning models such as Xception, and EfficentNet
+* Created several **CNNs** ranging from simple, sequential to fully optimized , **multi-branch inception** models using **TensorFlow**
+* Developed **Keras Tuner** **genetic algorithms** for tuning, and in some cases automated building of CNNs.
+* **Fine tuned** and **optimized** Tranfered learning models such as **Xception**, and **EfficentNet**.
 * Visualised layer outputs, and individual filter responses.
 * used **TensorBoards** to better understand experiment results and identify key hyperparameters.
 * optimised **In-memory storage** usage to maximise performance
