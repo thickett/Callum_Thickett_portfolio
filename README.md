@@ -18,7 +18,6 @@ A collection of my latest data analytics and data science projects.
 ![image](https://github.com/thickett/data-science-projects/blob/main/Colon%20Disease%20deep%20learning/final_image_small.PNG)
 
 
-
 # [Multiclass Classification of Authors using written text to understand how personality is captured in the written medium](https://github.com/thickett/data-science-projects/tree/main/Author_identity_prediction)
 
 ## Project Overview
@@ -28,6 +27,7 @@ A collection of my latest data analytics and data science projects.
 * NLP techniques such as **TF-IDF**, **LDA** were used for the purpose of feature engineering
 * A veriety of models compared using several performance metrics such as epoch-performance curves time-to-fit curves, f1-scores
 * **Hyper-opt** used for hyper-parameter optimisation.
+* used **TensorFlow** to build a number of feed-forward neural networks.
 ![image](https://user-images.githubusercontent.com/82325813/204160659-654e517c-0274-4c6f-92a5-a06890f4233f.png)
 ![image](https://user-images.githubusercontent.com/82325813/204160693-29a72f98-c62e-445f-be18-53d1d1008a92.png)
 
