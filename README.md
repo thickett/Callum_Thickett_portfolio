@@ -3,6 +3,22 @@ A collection of my latest data analytics and data science projects.
 
 
 
+# [Producing an optimized computer vision model for the accurate identification of colon related diseases](https://github.com/thickett/data-science-projects/tree/main/Colon%20Disease%20deep%20learning)
+
+## Project Overview
+
+* 
+* Created several CNNs ranging from simple, sequential to fully optimized , multi-branch inception models using **TensorFlow**
+* Developed **Keras Tuner** genetic algorithms for tuning, and in some cases automated building of CNNs.
+* **Fine tuned** and **optimized** Tranfered learning models such as Xception, and EfficentNet
+* Visualised layer outputs, and individual filter responses.
+* used **TensorBoards** to better understand experiment results and identify key hyperparameters.
+* optimised **In-memory storage** usage to maximise performance
+
+![](https://github.com/thickett/data-science-projects/tree/main/Colon%20Disease%20deep%20learning)
+
+
+
 # [Multiclass Classification of Authors using written text to understand how personality is captured in the written medium](https://github.com/thickett/data-science-projects/tree/main/Author_identity_prediction)
 
 ## Project Overview
